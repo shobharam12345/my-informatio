@@ -1,0 +1,19 @@
+/* td{ */
+
+    /* text-shadow: 2px 2px; */
+/* } */
+td:hover{
+    align-items: center;
+    background-color: aqua;
+    /* color: solid yellow; */
+    
+}
+th:hover{
+    background-color: cyan;
+}
+table ,image:hover{
+border-radius: 5px;
+}
+image{
+    border: radius 5px; 
+}
